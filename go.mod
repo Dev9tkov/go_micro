@@ -1,4 +1,4 @@
-module go_micro
+module github.com/Dev9tkov/go_micro
 
 go 1.21.0
 
